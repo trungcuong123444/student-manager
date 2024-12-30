@@ -2,11 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-.hidden-item{
-   .btn{
-          opacity: 0;
-   }       
-}
-.hidden-item:hover>.btn{
-          opacity: 100;
-}
